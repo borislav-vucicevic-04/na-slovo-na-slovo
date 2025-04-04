@@ -1,0 +1,1602 @@
+[
+  {
+      "word": "planeta",
+      "hint": "Dom mnogih, ali ne svih."
+  },
+  {
+      "word": "svetlost",
+      "hint": "Vidljiva tek kada tama nestane."
+  },
+  {
+      "word": "ogledalo",
+      "hint": "Odražava sve osim sebe."
+  },
+  {
+      "word": "leptirica",
+      "hint": "Tiha plesačica na povetarcu."
+  },
+  {
+      "word": "pustinja",
+      "hint": "More peska bez kapi vode."
+  },
+  {
+      "word": "gradonačelnik",
+      "hint": "On odlučuje, ali ne vlada sam."
+  },
+  {
+      "word": "knjigovođa",
+      "hint": "Računa tuđi novac, ali ne troši ga."
+  },
+  {
+      "word": "džungla",
+      "hint": "Dom onih koji ne vole puteve."
+  },
+  {
+      "word": "povratak",
+      "hint": "Kraj puta koji počinje ispočetka."
+  },
+  {
+      "word": "stvarnost",
+      "hint": "Ona je tu i kada se ne primećuje."
+  },
+  {
+      "word": "učiteljica",
+      "hint": "Uči druge, ali nikada ne prestaje da uči."
+  },
+  {
+      "word": "istorijat",
+      "hint": "Priča zapisana vremenom."
+  },
+  {
+      "word": "direktor",
+      "hint": "Odlučuje, ali ne uvek po svojoj volji."
+  },
+  {
+      "word": "sekretar",
+      "hint": "Pamti ono što drugi zaborave."
+  },
+  {
+      "word": "avioni",
+      "hint": "Putuje nebom, ali nema krila."
+  },
+  {
+      "word": "muzičar",
+      "hint": "Priča bez reči, ali svi ih razumeju."
+  },
+  {
+      "word": "kompanija",
+      "hint": "Mesto gde snovi postaju poslovi."
+  },
+  {
+      "word": "trgovina",
+      "hint": "Razmena vrednosti bez reči."
+  },
+  {
+      "word": "predmet",
+      "hint": "Postoji, ali ne diše."
+  },
+  {
+      "word": "nastavnik",
+      "hint": "Postavlja pitanja iako zna odgovore."
+  },
+  {
+      "word": "projekat",
+      "hint": "Ideja koja čeka svoje vreme."
+  },
+  {
+      "word": "tehnologija",
+      "hint": "Budućnost zarobljena u sadašnjosti."
+  },
+  {
+      "word": "elektrika",
+      "hint": "Nevidljiva sila koja pokreće svet."
+  },
+  {
+      "word": "bolničar",
+      "hint": "Prva ruka pomoći u nevolji."
+  },
+  {
+      "word": "putovanje",
+      "hint": "Kretanje tela i uma."
+  },
+  {
+      "word": "umetnost",
+      "hint": "Lepota uhvaćena u obliku."
+  },
+  {
+      "word": "tumačenje",
+      "hint": "Svako vidi drugačije, ali svi traže isto."
+  },
+  {
+      "word": "senovitost",
+      "hint": "Svetlost ga ne voli."
+  },
+  {
+      "word": "narandža",
+      "hint": "Vrsta citrusnog voća"
+  },
+  {
+      "word": "opomena",
+      "hint": "Glas prošlosti u sadašnjosti."
+  },
+  {
+      "word": "zagonetka",
+      "hint": "Nije jasna, ali traži rešenje."
+  },
+  {
+      "word": "biblioteka",
+      "hint": "Kuća u kojoj priče spavaju."
+  },
+  {
+      "word": "istraživanje",
+      "hint": "Pitanja koja traže odgovore."
+  },
+  {
+      "word": "kompozitor",
+      "hint": "Piše muziku bez reči."
+  },
+  {
+      "word": "prijatelj",
+      "hint": "Blago koje nema cenu."
+  },
+  {
+      "word": "zdravstvo",
+      "hint": "Povezano sa životom, ali ne i smrću."
+  },
+  {
+      "word": "analizirati",
+      "hint": "Razložiti da bi se razumelo."
+  },
+  {
+      "word": "arhitekta",
+      "hint": "Sanja zgrade pre nego što postoje."
+  },
+  {
+      "word": "inženjer",
+      "hint": "Pronalazi rešenja gde ih drugi ne vide."
+  },
+  {
+      "word": "vodoinstalater",
+      "hint": "Kontroliše reke iza zidova."
+  },
+  {
+      "word": "ambasador",
+      "hint": "Glas svoje zemlje u tuđini."
+  },
+  {
+      "word": "krivica",
+      "hint": "Teret bez težine."
+  },
+  {
+      "word": "umetnici",
+      "hint": "Boje svet."
+  },
+  {
+      "word": "dokument",
+      "hint": "Papir sa moći."
+  },
+  {
+      "word": "autonomija",
+      "hint": "Sloboda u okviru pravila."
+  },
+  {
+      "word": "sinonim",
+      "hint": "Iste stvari, drugačije rečene."
+  },
+  {
+      "word": "savjetnik",
+      "hint": "Daje mudrost bez presude."
+  },
+  {
+      "word": "klavir",
+      "hint": "Govori kroz crne i bele tipke."
+  },
+  {
+      "word": "zvijezda",
+      "hint": "Nebesko tijelo koje svijetli na noćnom nebu."
+  },
+  {
+      "word": "hronika",
+      "hint": "Istorija u redovima papira."
+  },
+  {
+      "word": "misterija",
+      "hint": "Postoji, ali se ne vidi odmah."
+  },
+  {
+      "word": "odjekivanje",
+      "hint": "Zvuk koji se ponavlja u daljini."
+  },
+  {
+      "word": "nesanica",
+      "hint": "Kad noći postanu duže nego dani."
+  },
+  {
+      "word": "gospodar",
+      "hint": "Onaj koji vlada ili upravlja."
+  },
+  {
+      "word": "povjerenje",
+      "hint": "Nešto teško stečeno, lako izgubljeno."
+  },
+  {
+      "word": "razmišljanje",
+      "hint": "Tiha aktivnost uma."
+  },
+  {
+      "word": "povratnik",
+      "hint": "Onaj koji se vraća odnekud."
+  },
+  {
+      "word": "prekretnica",
+      "hint": "Trenutak koji mijenja tok događaja."
+  },
+  {
+      "word": "čarolija",
+      "hint": "Nešto neobjašnjivo, ali očaravajuće."
+  },
+  {
+      "word": "usamljenost",
+      "hint": "Prisutna čak i u gužvi."
+  },
+  {
+      "word": "strpljenje",
+      "hint": "Vrlina čekanja bez žurbe."
+  },
+  {
+      "word": "mučenik",
+      "hint": "Osoba koja pati za viši cilj."
+  },
+  {
+      "word": "nevjerstvo",
+      "hint": "Gubitak odanosti i povjerenja."
+  },
+  {
+      "word": "prolaznost",
+      "hint": "Ništa ne traje vječno."
+  },
+  {
+      "word": "zavjera",
+      "hint": "Tajni plan skrivenih namjera."
+  },
+  {
+      "word": "osjećanje",
+      "hint": "Nešto što srce razumije prije uma."
+  },
+  {
+      "word": "sudbina",
+      "hint": "Napisana prije nego što je poznata."
+  },
+  {
+      "word": "pustolovina",
+      "hint": "Putovanje u nepoznato, puno izazova."
+  },
+  {
+      "word": "čestitost",
+      "hint": "Osobina časnog i poštenog čovjeka."
+  },
+  {
+      "word": "spokojstvo",
+      "hint": "Unutrašnji mir bez nemira."
+  },
+  {
+      "word": "povijest",
+      "hint": "Zapis prošlih vremena."
+  },
+  {
+      "word": "neprijatelj",
+      "hint": "Onaj koji stoji s druge strane."
+  },
+  {
+      "word": "prijateljstvo",
+      "hint": "Veza jača od riječi."
+  },
+  {
+      "word": "lutalica",
+      "hint": "Onaj koji traži put bez cilja."
+  },
+  {
+      "word": "umjetnost",
+      "hint": "Lijep izraz kreativnosti."
+  },
+  {
+      "word": "otkriće",
+      "hint": "Nešto novo što mijenja svijet."
+  },
+  {
+      "word": "prostranstvo",
+      "hint": "Nepregledna širina prostora."
+  },
+  {
+      "word": "začaranost",
+      "hint": "Kada stvarnost postane bajka."
+  },
+  {
+      "word": "sjećanje",
+      "hint": "Ostaci prošlosti u umu."
+  },
+  {
+      "word": "veličina",
+      "hint": "Ne mjeri se uvijek u brojevima."
+  },
+  {
+      "word": "osamljenik",
+      "hint": "Čovjek koji bira tišinu."
+  },
+  {
+      "word": "nepoznato",
+      "hint": "Ono što tek treba otkriti."
+  },
+  {
+      "word": "iskrenost",
+      "hint": "Kad riječi odražavaju istinu."
+  },
+  {
+      "word": "sloboda",
+      "hint": "Mogućnost izbora bez okova."
+  },
+  {
+      "word": "milosrđe",
+      "hint": "Kada srce odluči pomoći."
+  },
+  {
+      "word": "dubokoumnost",
+      "hint": "Razmišljanje koje zadire u suštinu."
+  },
+  {
+      "word": "ravnoteža",
+      "hint": "Kada je sve u savršenom skladu."
+  },
+  {
+      "word": "uzbuđenje",
+      "hint": "Osjećaj pred nečim nepoznatim."
+  },
+  {
+      "word": "samopouzdanje",
+      "hint": "Vjerovanje u vlastite sposobnosti."
+  },
+  {
+      "word": "željezara",
+      "hint": "Mjesto gdje se stvara čelik."
+  },
+  {
+      "word": "odlučnost",
+      "hint": "Nepokolebljivost u odlukama."
+  },
+  {
+      "word": "istraživanje",
+      "hint": "Potraga za novim znanjem."
+  },
+  {
+      "word": "zagonetnost",
+      "hint": "Kada stvari nisu odmah jasne."
+  },
+  {
+      "word": "sigurnost",
+      "hint": "Zaštita od opasnosti."
+  },
+  {
+      "word": "pronicljivost",
+      "hint": "Sposobnost sagledavanja skrivenih istina."
+  },
+  {
+      "word": "samostalnost",
+      "hint": "Kada ne zavisiš od drugih."
+  },
+  {
+      "word": "mračnost",
+      "hint": "Tama koja nije samo fizička."
+  },
+  {
+      "word": "spontanost",
+      "hint": "Djelovanje bez previše razmišljanja."
+  },
+  {
+      "word": "učtivost",
+      "hint": "Oznaka pravog džentlmena."
+  },
+  {
+      "word": "istrajnost",
+      "hint": "Kada ne odustaješ bez obzira na prepreke."
+  },
+  {
+      "word": "neuhvatljivost",
+      "hint": "Nešto što izmiče svakom pokušaju hvatanja."
+  },
+  {
+      "word": "jedinstvenost",
+      "hint": "Neponovljivost među mnoštvom."
+  },
+  {
+      "word": "samokontrola",
+      "hint": "Sposobnost obuzdavanja vlastitih poriva."
+  },
+  {
+      "word": "tajanstvenost",
+      "hint": "Ono što budi radoznalost."
+  },
+  {
+      "word": "pomirenje",
+      "hint": "Kada sukobi prestanu."
+  },
+  {
+      "word": "upornost",
+      "hint": "Osobina onih koji ne odustaju."
+  },
+  {
+      "word": "neodoljivost",
+      "hint": "Osobina koja privlači pažnju."
+  },
+  {
+      "word": "nepobjedivost",
+      "hint": "Kada poraz nije opcija."
+  },
+  {
+      "word": "zamišljenost",
+      "hint": "Kada misli odlutaju daleko."
+  },
+  {
+      "word": "bezvremenost",
+      "hint": "Nešto što ne stari i ne prolazi."
+  },
+  {
+      "word": "nepokolebljivost",
+      "hint": "Kad te ništa ne može uzdrmati."
+  },
+  {
+      "word": "neustrašivost",
+      "hint": "Hrabar pred svakim izazovom."
+  },
+  {
+      "word": "pravednost",
+      "hint": "Osobina onih koji dijele pravdu."
+  },
+  {
+      "word": "znatiželja",
+      "hint": "Pokretač svih otkrića."
+  },
+  {
+      "word": "ljubaznost",
+      "hint": "Osobina koja grije srce."
+  },
+  {
+      "word": "nepouzdanost",
+      "hint": "Kad se ne možeš osloniti na nešto."
+  },
+  {
+      "word": "nepovjerenje",
+      "hint": "Kada se sumnja u istinitost."
+  },
+  {
+      "word": "samospoznaja",
+      "hint": "Razumijevanje vlastite suštine."
+  },
+  {
+      "word": "nepredvidljivost",
+      "hint": "Kad se ne zna šta slijedi."
+  },
+  {
+      "word": "pronicljivost",
+      "hint": "Kada vidiš više od drugih."
+  },
+  {
+      "word": "neumoljivost",
+      "hint": "Tvrdoća u odlukama."
+  },
+  {
+      "word": "postojanost",
+      "hint": "Nešto što traje bez promjena."
+  },
+  {
+      "word": "neograničenost",
+      "hint": "Kad nema granica ni prepreka."
+  },
+  {
+      "word": "svestranost",
+      "hint": "Sposobnost da se snalaziš u svemu."
+  },
+  {
+      "word": "nepristrasnost",
+      "hint": "Kada ne biraš strane."
+  },
+  {
+      "word": "osjetljivost",
+      "hint": "Reakcija na vanjske uticaje."
+  },
+  {
+      "word": "očaravajuće",
+      "hint": "Nešto što ostavlja bez daha."
+  },
+  {
+      "word": "apotekar",
+      "hint": "Prodaje lijekove, ali ne liječi."
+  },
+  {
+      "word": "astronom",
+      "hint": "Posmatra prošlost kroz teleskop."
+  },
+  {
+      "word": "balerina",
+      "hint": "Govori tijelom bez riječi."
+  },
+  {
+      "word": "beskonačnost",
+      "hint": "Linija bez kraja i početka."
+  },
+  {
+      "word": "bravar",
+      "hint": "Majstor koji otvara i zatvara."
+  },
+  {
+      "word": "crkvenjak",
+      "hint": "Brine o kući molitve."
+  },
+  {
+      "word": "časovničar",
+      "hint": "Popravlja vrijeme, ali ne može da ga vrati."
+  },
+  {
+      "word": "dizajner",
+      "hint": "Stvara ljepotu iz ideja."
+  },
+  {
+      "word": "diverzija",
+      "hint": "Preusmjeravanje pažnje na drugi pravac."
+  },
+  {
+      "word": "dostavljač",
+      "hint": "Uvijek u pokretu, ali nikada ne ostaje."
+  },
+  {
+      "word": "ekonomija",
+      "hint": "Umjetnost balansiranja resursa."
+  },
+  {
+      "word": "električar",
+      "hint": "Gospodar nevidljive energije."
+  },
+  {
+      "word": "fotografija",
+      "hint": "Trenutak uhvaćen za vječnost."
+  },
+  {
+      "word": "gitarista",
+      "hint": "Priča kroz šest žica."
+  },
+  {
+      "word": "gradilište",
+      "hint": "Mjesto gdje se budućnost oblikuje."
+  },
+  {
+      "word": "herbarijum",
+      "hint": "Priroda sačuvana na papiru."
+  },
+  {
+      "word": "himničar",
+      "hint": "Pjevač slave i ponosa."
+  },
+  {
+      "word": "hotelier",
+      "hint": "Njegova kuća je privremeni dom mnogih."
+  },
+  {
+      "word": "ilustrator",
+      "hint": "Priča priče bojama i linijama."
+  },
+  {
+      "word": "instruktor",
+      "hint": "Pomaže drugima da savladaju vještine."
+  },
+  {
+      "word": "izvođač",
+      "hint": "Donosi ideje u stvarnost."
+  },
+  {
+      "word": "javnost",
+      "hint": "Svi, a ipak niko konkretan."
+  },
+  {
+      "word": "jezikoslovac",
+      "hint": "Razumije riječi bolje od drugih."
+  },
+  {
+      "word": "junak",
+      "hint": "Onaj koji se ne plaši izazova."
+  },
+  {
+      "word": "kaligrafija",
+      "hint": "Ljepota skrivena u slovima."
+  },
+  {
+      "word": "kapetan",
+      "hint": "Vodi brod kroz oluje i tišine."
+  },
+  {
+      "word": "karavan",
+      "hint": "Putujući grad na točkovima."
+  },
+  {
+      "word": "klimatske",
+      "hint": "Promjene koje oblikuju svijet."
+  },
+  {
+      "word": "kolekcionar",
+      "hint": "Čuva prošlost u sadašnjosti."
+  },
+  {
+      "word": "komedija",
+      "hint": "Smijeh zarobljen u scenama."
+  },
+  {
+      "word": "kondukter",
+      "hint": "Gospodar putničkih karata."
+  },
+  {
+      "word": "korisnik",
+      "hint": "Onaj ko upotrebljava, ali ne stvara."
+  },
+  {
+      "word": "kovrdžavost",
+      "hint": "Osobina kose koja voli slobodu."
+  },
+  {
+      "word": "kritičar",
+      "hint": "Vidi mane čak i u savršenstvu."
+  },
+  {
+      "word": "kustos",
+      "hint": "Čuvar priča zarobljenih u predmetima."
+  },
+  {
+      "word": "lanac",
+      "hint": "Spojeni prstenovi koji čine cjelinu."
+  },
+  {
+      "word": "logičnost",
+      "hint": "Put razuma bez stranputica."
+  },
+  {
+      "word": "majstor",
+      "hint": "Vještina oblikovana iskustvom."
+  },
+  {
+      "word": "mapiranje",
+      "hint": "Crtanje nevidljivih putokaza."
+  },
+  {
+      "word": "medicina",
+      "hint": "Umijeće borbe protiv bolesti."
+  },
+  {
+      "word": "meteorolog",
+      "hint": "Predviđa vrijeme, ali ne može da ga promijeni."
+  },
+  {
+      "word": "mitologija",
+      "hint": "Priče starije od vremena."
+  },
+  {
+      "word": "mobilnost",
+      "hint": "Sposobnost kretanja bez prepreka."
+  },
+  {
+      "word": "modistkinja",
+      "hint": "Kroji ljepotu tkaninama."
+  },
+  {
+      "word": "muzičar",
+      "hint": "Zvuk je njegov alat izražavanja."
+  },
+  {
+      "word": "nastanak",
+      "hint": "Početak nečeg novog."
+  },
+  {
+      "word": "navika",
+      "hint": "Ponovljena radnja koja postaje dio tebe."
+  },
+  {
+      "word": "neumoljivost",
+      "hint": "Čvrstina odluke bez pokajanja."
+  },
+  {
+      "word": "nogomet",
+      "hint": "Igra nogama, ali srce je ključno."
+  },
+  {
+      "word": "novinar",
+      "hint": "Hvata istinu u trenutku."
+  },
+  {
+      "word": "objašnjenje",
+      "hint": "Most između pitanja i odgovora."
+  },
+  {
+      "word": "oblikovanje",
+      "hint": "Davanje forme bez suvišnih linija."
+  },
+  {
+      "word": "organizator",
+      "hint": "Njegov svijet je red u haosu."
+  },
+  {
+      "word": "orijentacija",
+      "hint": "Sposobnost pronalaženja pravog puta."
+  },
+  {
+      "word": "osvajač",
+      "hint": "Prelazi granice bez straha."
+  },
+  {
+      "word": "pažljivost",
+      "hint": "Sposobnost uočavanja sitnih detalja."
+  },
+  {
+      "word": "pesimizam",
+      "hint": "Očekivanje najgoreg, čak i kad nije potrebno."
+  },
+  {
+      "word": "piloti",
+      "hint": "Vode ljude kroz oblake."
+  },
+  {
+      "word": "pješačenje",
+      "hint": "Kretanje bez žurbe i buke."
+  },
+  {
+      "word": "plovidba",
+      "hint": "Kretanje bez tragova na vodi."
+  },
+  {
+      "word": "pomorstvo",
+      "hint": "Svijet onih koji žive na talasima."
+  },
+  {
+      "word": "predah",
+      "hint": "Kratka pauza između dva koraka."
+  },
+  {
+      "word": "procvjetati",
+      "hint": "Pretvoriti potencijal u ljepotu."
+  },
+  {
+      "word": "reprezentacija",
+      "hint": "Grupa koja nosi ime naroda."
+  },
+  {
+      "word": "restaurator",
+      "hint": "Vraća starom sjaj."
+  },
+  {
+      "word": "sanjar",
+      "hint": "Živi u svijetu mašte."
+  },
+  {
+      "word": "harmonija",
+      "hint": "Zvuk koji srcu prija."
+  },
+  {
+      "word": "semafor",
+      "hint": "Čuvar ulica u tri boje."
+  },
+  {
+      "word": "kapljica",
+      "hint": "Mala, ali može poplaviti sve."
+  },
+  {
+      "word": "olovka",
+      "hint": "Piše, ali ne govori."
+  },
+  {
+      "word": "zagonetka",
+      "hint": "Test za oštroumne."
+  },
+  {
+      "word": "peščanik",
+      "hint": "Vreme u rukama."
+  },
+  {
+      "word": "astronom",
+      "hint": "Posmatrač zvezdanog neba."
+  },
+  {
+      "word": "navigator",
+      "hint": "Vodič kroz nepoznato."
+  },
+  {
+      "word": "barijera",
+      "hint": "Zaustavlja, ali ne zauvek."
+  },
+  {
+      "word": "putnik",
+      "hint": "Nikad dugo na jednom mestu."
+  },
+  {
+      "word": "misterija",
+      "hint": "Nešto što čeka da bude otkriveno."
+  },
+  {
+      "word": "vetrenjača",
+      "hint": "Pleše uz vetar."
+  },
+  {
+      "word": "biblioteka",
+      "hint": "Dom hiljada priča."
+  },
+  {
+      "word": "fenomen",
+      "hint": "Nešto što svi primećuju, ali malo ko razume."
+  },
+  {
+      "word": "katedrala",
+      "hint": "Gde tišina govori najglasnije."
+  },
+  {
+      "word": "eskalator",
+      "hint": "Stepenice koje same rade posao."
+  },
+  {
+      "word": "dragocenost",
+      "hint": "Vrednost nije u materijalu, već u značenju."
+  },
+  {
+      "word": "orijentir",
+      "hint": "Pomaže da se ne izgubiš."
+  },
+  {
+      "word": "leksikon",
+      "hint": "Skladište reči i značenja."
+  },
+  {
+      "word": "inspiracija",
+      "hint": "Dolazi kad je najmanje očekuješ."
+  },
+  {
+      "word": "interpretacija",
+      "hint": "Različite oči, različiti pogledi."
+  },
+  {
+      "word": "formacija",
+      "hint": "Red u haosu."
+  },
+  {
+      "word": "kompozitor",
+      "hint": "Stvara melodije iz tišine."
+  },
+  {
+      "word": "projekcija",
+      "hint": "Svetlost u pokretu."
+  },
+  {
+      "word": "ekspedicija",
+      "hint": "Put u nepoznato."
+  },
+  {
+      "word": "generacija",
+      "hint": "Vreme u ljudskom obliku."
+  },
+  {
+      "word": "pionir",
+      "hint": "Prvi koji kroči nepoznatim putem."
+  },
+  {
+      "word": "strategija",
+      "hint": "Plan pre poteza."
+  },
+  {
+      "word": "transformacija",
+      "hint": "Ništa nije zauvek isto."
+  },
+  {
+      "word": "zavesa",
+      "hint": "Otkriva i skriva istovremeno."
+  },
+  {
+      "word": "dekoracija",
+      "hint": "Dodaje lepotu prostoru."
+  },
+  {
+      "word": "analiza",
+      "hint": "Razbijanje složenog na jednostavno."
+  },
+  {
+      "word": "hipoteza",
+      "hint": "Pitanje koje traži dokaz."
+  },
+  {
+      "word": "kontekst",
+      "hint": "Okruženje u kojem značenje postaje jasno."
+  },
+  {
+      "word": "intenzitet",
+      "hint": "Merilo snage osećanja."
+  },
+  {
+      "word": "mehanizam",
+      "hint": "Sistem koji sve pokreće."
+  },
+  {
+      "word": "odredište",
+      "hint": "Svaki put ima svoj kraj."
+  },
+  {
+      "word": "perspektiva",
+      "hint": "Kao gledanje kroz različite naočare."
+  },
+  {
+      "word": "reprodukcija",
+      "hint": "Kopija originala, ali nikada ista."
+  },
+  {
+      "word": "selekcija",
+      "hint": "Biranje najboljeg od ponuđenog."
+  },
+  {
+      "word": "fascinacija",
+      "hint": "Pogled koji ne možeš skloniti."
+  },
+  {
+      "word": "inklinacija",
+      "hint": "Prirodna sklonost ka nečemu."
+  },
+  {
+      "word": "manifestacija",
+      "hint": "Misao koja postaje stvarnost."
+  },
+  {
+      "word": "navigacija",
+      "hint": "Umetnost pronalaženja puta."
+  },
+  {
+      "word": "optimizacija",
+      "hint": "Postizanje najboljeg sa najmanje napora."
+  },
+  {
+      "word": "paradoks",
+      "hint": "Istina koja izgleda kao laž."
+  },
+  {
+      "word": "reakcija",
+      "hint": "Odgovor na akciju."
+  },
+  {
+      "word": "senzacija",
+      "hint": "Nešto što privlači pažnju svih."
+  },
+  {
+      "word": "teritorija",
+      "hint": "Prostor sa nevidljivim granicama."
+  },
+  {
+      "word": "vibracija",
+      "hint": "Pokret koji osećaš, ali ne vidiš."
+  },
+  {
+      "word": "zanesenjak",
+      "hint": "Osoba izgubljena u snovima."
+  },
+  {
+      "word": "elementarno",
+      "hint": "Osnova svega poznatog."
+  },
+  {
+      "word": "frustracija",
+      "hint": "Kad se prepreke čine nepremostivim."
+  },
+  {
+      "word": "gradacija",
+      "hint": "Postepeni prelaz iz jednog u drugo."
+  },
+  {
+      "word": "harmonizacija",
+      "hint": "Usklađivanje različitih elemenata."
+  },
+  {
+      "word": "impulsivnost",
+      "hint": "Donošenje odluka bez razmišljanja."
+  },
+  {
+      "word": "kreativnost",
+      "hint": "Moć da se nešto novo stvori."
+  },
+  {
+      "word": "logistika",
+      "hint": "Organizacija haosa."
+  },
+  {
+      "word": "motiviacija",
+      "hint": "Ono što te pokreće napred."
+  },
+  {
+      "word": "nervoza",
+      "hint": "Nemir pre važnog trenutka."
+  },
+  {
+      "word": "objektivnost",
+      "hint": "Pogled bez emocija."
+  },
+  {
+      "word": "progresija",
+      "hint": "Koraci napred, ka nečemu većem."
+  },
+  {
+      "word": "rekonstrukcija",
+      "hint": "Ponovno građenje iz ruševina."
+  },
+  {
+      "word": "sinhronizacija",
+      "hint": "Savršen tajming."
+  },
+  {
+      "word": "taktika",
+      "hint": "Pametan potez u pravo vreme."
+  },
+  {
+      "word": "uverljivost",
+      "hint": "Sposobnost da ubediš druge."
+  },
+  {
+      "word": "vitalnost",
+      "hint": "Energija koja se ne gasi."
+  },
+  {
+      "word": "zamišljenost",
+      "hint": "Odsustvo u prisutnosti."
+  },
+  {
+      "word": "iluminacija",
+      "hint": "Svetlost u tami."
+  },
+  {
+      "word": "kanalizacija",
+      "hint": "Nešto što svi koriste, ali niko ne primećuje."
+  },
+  {
+      "word": "latentnost",
+      "hint": "Nešto prisutno, ali nevidljivo."
+  },
+  {
+      "word": "misteriozno",
+      "hint": "Skriveno od očiju javnosti."
+  },
+  {
+      "word": "nedefinisano",
+      "hint": "Nejasno i neograničeno."
+  },
+  {
+      "word": "opservacija",
+      "hint": "Pažljivo posmatranje detalja."
+  },
+  {
+      "word": "pronicljivost",
+      "hint": "Razumevanje ispod površine."
+  },
+  {
+      "word": "refleksija",
+      "hint": "Ogledalo misli i svetlosti."
+  },
+  {
+      "word": "sekvenca",
+      "hint": "Redosled sa značenjem."
+  },
+  {
+      "word": "tradicija",
+      "hint": "Most između prošlosti i budućnosti."
+  },
+  {
+      "word": "univerzalno",
+      "hint": "Važi za sve i svuda."
+  },
+  {
+      "word": "vizuelizacija",
+      "hint": "Gledanje zatvorenim očima."
+  },
+  {
+      "word": "zagonetan",
+      "hint": "Skriva značenje od radoznalih."
+  },
+  {
+      "word": "arhitektura",
+      "hint": "Umjetnost oblikovanja prostora."
+  },
+  {
+      "word": "balansiranje",
+      "hint": "Držanje ravnoteže na tankoj liniji."
+  },
+  {
+      "word": "celovitost",
+      "hint": "Ništa ne nedostaje."
+  },
+  {
+      "word": "determinacija",
+      "hint": "Nepokolebljiva volja."
+  },
+  {
+      "word": "eksploracija",
+      "hint": "Putovanje bez kraja."
+  },
+  {
+      "word": "fleksibilnost",
+      "hint": "Sposobnost prilagođavanja promenama."
+  },
+  {
+      "word": "generisanje",
+      "hint": "Stvaranje nečeg iz ničega."
+  },
+  {
+      "word": "hermetičnost",
+      "hint": "Nešto zatvoreno, bez spoljašnjeg uticaja."
+  },
+  {
+      "word": "idealistički",
+      "hint": "Verovanje u savršenstvo."
+  },
+  {
+      "word": "kontinuitet",
+      "hint": "Nešto što se nikada ne prekida."
+  },
+  {
+      "word": "lucidnost",
+      "hint": "Bistar um u magli misli."
+  },
+  {
+      "word": "pogača",
+      "hint": "Preko nje se traži hljeb"
+  },
+  {
+      "word": "suncokret",
+      "hint": "Okreće se sa Suncem"
+  },
+  {
+      "word": "lisica",
+      "hint": "Uvijek mudra"
+  },
+  {
+      "word": "london",
+      "hint": "Ima svoje oko"
+  },
+  {
+      "word": "avantura",
+      "hint": "Kada poznato postane dosadno."
+  },
+  {
+      "word": "balansirati",
+      "hint": "Održavati ravnotežu između suprotnosti."
+  },
+  {
+      "word": "beznadežno",
+      "hint": "Osjećaj kada nema svjetla na kraju tunela."
+  },
+  {
+      "word": "besprijekorno",
+      "hint": "Kada se ni jedna greška ne može pronaći."
+  },
+  {
+      "word": "boemski",
+      "hint": "Život bez pravila i ograničenja."
+  },
+  {
+      "word": "burek",
+      "hint": "Obrok umotan u slojeve tajne."
+  },
+  {
+      "word": "cjelovitost",
+      "hint": "Osjećaj kada ništa ne nedostaje."
+  },
+  {
+      "word": "čistota",
+      "hint": "Bez mrlja, u bilo kom smislu."
+  },
+  {
+      "word": "čovječnost",
+      "hint": "Ono što nas razlikuje od mašina."
+  },
+  {
+      "word": "darovitost",
+      "hint": "Kad talent govori bez riječi."
+  },
+  {
+      "word": "dekoracija",
+      "hint": "Estetika koja nema funkciju."
+  },
+  {
+      "word": "detektiv",
+      "hint": "Onaj koji vidi ono što drugi propuštaju."
+  },
+  {
+      "word": "diplomatija",
+      "hint": "Umijeće govorenja bez sukoba."
+  },
+  {
+      "word": "divljenje",
+      "hint": "Osjećaj kada riječi nisu dovoljne."
+  },
+  {
+      "word": "dostojanstvo",
+      "hint": "Kada hodaš uspravno, bez obzira na teret."
+  },
+  {
+      "word": "dramski",
+      "hint": "Kada emocije postanu veće od života."
+  },
+  {
+      "word": "duševno",
+      "hint": "Ono što se ne može dotaknuti rukama."
+  },
+  {
+      "word": "efekat",
+      "hint": "Posljedica nečega što je došlo prije."
+  },
+  {
+      "word": "element",
+      "hint": "Dio veće cjeline."
+  },
+  {
+      "word": "emotivnost",
+      "hint": "Osjećaj izražen kroz svaku riječ."
+  },
+  {
+      "word": "entuzijazam",
+      "hint": "Energija koja dolazi iznutra."
+  },
+  {
+      "word": "epicentar",
+      "hint": "Mesto gdje sve počinje da se širi."
+  },
+  {
+      "word": "estrada",
+      "hint": "Svijet reflektora i aplauza."
+  },
+  {
+      "word": "fantazija",
+      "hint": "Kad stvarnost nije dovoljna."
+  },
+  {
+      "word": "fenomen",
+      "hint": "Nešto što izaziva divljenje i čuđenje."
+  },
+  {
+      "word": "fleksibilnost",
+      "hint": "Sposobnost prilagođavanja promjenama."
+  },
+  {
+      "word": "fotograf",
+      "hint": "Hvata trenutke prije nego što nestanu."
+  },
+  {
+      "word": "galerija",
+      "hint": "Dom za slike koje pričaju priče."
+  },
+  {
+      "word": "genijalnost",
+      "hint": "Kada um vidi dalje od drugih."
+  },
+  {
+      "word": "globalno",
+      "hint": "Sve što prelazi granice jedne zemlje."
+  },
+  {
+      "word": "gracioznost",
+      "hint": "Kada pokreti postanu poezija."
+  },
+  {
+      "word": "harmonija",
+      "hint": "Savršeni sklad različitosti."
+  },
+  {
+      "word": "heroizam",
+      "hint": "Hrabra djela bez traženja nagrade."
+  },
+  {
+      "word": "identitet",
+      "hint": "Ono što nas čini jedinstvenima."
+  },
+  {
+      "word": "iluzija",
+      "hint": "Kada oči vide ono što ne postoji."
+  },
+  {
+      "word": "impulsivnost",
+      "hint": "Postupci brži od misli."
+  },
+  {
+      "word": "inspiracija",
+      "hint": "Kad nešto u nama budi kreativnost."
+  },
+  {
+      "word": "intuicija",
+      "hint": "Znanje bez dokaza."
+  },
+  {
+      "word": "izdržljivost",
+      "hint": "Kad ne odustaješ ni pod pritiskom."
+  },
+  {
+      "word": "izolacija",
+      "hint": "Sami u sobi punoj tišine."
+  },
+  {
+      "word": "karakter",
+      "hint": "Onaj unutrašnji glas koji nas vodi."
+  },
+  {
+      "word": "kolektivno",
+      "hint": "Kada pojedinci postanu jedno."
+  },
+  {
+      "word": "koncentracija",
+      "hint": "Um koji ne luta."
+  },
+  {
+      "word": "konstruktivan",
+      "hint": "Kritika koja gradi, a ne ruši."
+  },
+  {
+      "word": "kritičnost",
+      "hint": "Sposobnost uočavanja slabosti."
+  },
+  {
+      "word": "kulturno",
+      "hint": "Ono što nas čini civilizovanim."
+  },
+  {
+      "word": "lakoća",
+      "hint": "Kada stvari teku bez otpora."
+  },
+  {
+      "word": "legenda",
+      "hint": "Priča starija od svjedoka."
+  },
+  {
+      "word": "lirski",
+      "hint": "Kad riječi postanu melodija."
+  },
+  {
+      "word": "logika",
+      "hint": "Pravila uma koja ne podnose haos."
+  },
+  {
+      "word": "magnetizam",
+      "hint": "Nevidljiva sila koja privlači."
+  },
+  {
+      "word": "majstorstvo",
+      "hint": "Kada vještina postane umjetnost."
+  },
+  {
+      "word": "melanholija",
+      "hint": "Tuga bez pravog razloga."
+  },
+  {
+      "word": "metafora",
+      "hint": "Kada jedno znači nešto drugo."
+  },
+  {
+      "word": "mistika",
+      "hint": "Tajna koju niko ne može dokučiti."
+  },
+  {
+      "word": "motivacija",
+      "hint": "Snaga koja nas pokreće."
+  },
+  {
+      "word": "mrežasti",
+      "hint": "Povezano poput paukove mreže."
+  },
+  {
+      "word": "muzikalnost",
+      "hint": "Kada note teku kroz vene."
+  },
+  {
+      "word": "napetost",
+      "hint": "Tišina prije nevremena."
+  },
+  {
+      "word": "narativ",
+      "hint": "Priča koja oblikuje percepciju."
+  },
+  {
+      "word": "neizvjesnost",
+      "hint": "Kada budućnost ne daje odgovore."
+  },
+  {
+      "word": "nemirnost",
+      "hint": "Kada srce ne zna da miruje."
+  },
+  {
+      "word": "neutralnost",
+      "hint": "Stajati između bez biranja strane."
+  },
+  {
+      "word": "novitet",
+      "hint": "Nešto što miriše na novo."
+  },
+  {
+      "word": "odvažnost",
+      "hint": "Hrabrost bez premišljanja."
+  },
+  {
+      "word": "opservacija",
+      "hint": "Posmatranje bez miješanja."
+  },
+  {
+      "word": "orator",
+      "hint": "Gospodar riječi i govora."
+  },
+  {
+      "word": "osvješćenje",
+      "hint": "Trenutak kada sve postane jasno."
+  },
+  {
+      "word": "patriotizam",
+      "hint": "Ljubav prema zemlji koja nema cijenu."
+  },
+  {
+      "word": "percepcija",
+      "hint": "Način na koji vidimo svijet."
+  },
+  {
+      "word": "pesimizam",
+      "hint": "Kada čaša nije ni poluprazna, ni polupuna."
+  },
+  {
+      "word": "plodonosno",
+      "hint": "Ono što donosi rezultate."
+  },
+  {
+      "word": "podsvijest",
+      "hint": "Dio uma koji ne spava."
+  },
+  {
+      "word": "pojava",
+      "hint": "Nešto što se odjednom ukaže."
+  },
+  {
+      "word": "preosjetljiv",
+      "hint": "Kada su emocije uvijek na ivici."
+  },
+  {
+      "word": "progresija",
+      "hint": "Korak po korak ka nečem većem."
+  },
+  {
+      "word": "proliferacija",
+      "hint": "Brzo širenje nečega novog."
+  },
+  {
+      "word": "pronicljiv",
+      "hint": "Onaj koji vidi ispod površine."
+  },
+  {
+      "word": "prorok",
+      "hint": "Onaj koji vidi ono što drugi ne mogu."
+  },
+  {
+      "word": "pukotina",
+      "hint": "Malo mjesto gdje svjetlost ulazi."
+  },
+  {
+      "word": "razotkrivanje",
+      "hint": "Istina koja više ne može biti skrivena."
+  },
+  {
+      "word": "refleksija",
+      "hint": "Ogledalo misli i emocija."
+  },
+  {
+      "word": "ritam",
+      "hint": "Srce muzike i pokreta."
+  },
+  {
+      "word": "predanost",
+      "hint": "Kad srce ostane tamo gde je volja."
+  },
+  {
+      "word": "znanje",
+      "hint": "Blago koje se umnožava deljenjem."
+  },
+  {
+      "word": "vještina",
+      "hint": "Spoj prakse i talenta."
+  },
+  {
+      "word": "poglavlje",
+      "hint": "Deo priče, ali ne i njen kraj."
+  },
+  {
+      "word": "proročanstvo",
+      "hint": "Reči budućnosti izgovorene u prošlosti."
+  },
+  {
+      "word": "dobročinstvo",
+      "hint": "Davanje bez očekivanja nečega zauzvrat."
+  },
+  {
+      "word": "maštovitost",
+      "hint": "Sposobnost da se vidi nevidljivo."
+  },
+  {
+      "word": "rješavanje",
+      "hint": "Ključ svake zagonetke."
+  },
+  {
+      "word": "počast",
+      "hint": "Davanje priznanja vrednima."
+  },
+  {
+      "word": "pokretanje",
+      "hint": "Prvi korak ka nečemu većem."
+  },
+  {
+      "word": "mreškanje",
+      "hint": "Odjek kapljice na mirnoj vodi."
+  },
+  {
+      "word": "duhovitost",
+      "hint": "Sposobnost da se svet vidi kroz osmeh."
+  },
+  {
+      "word": "pripovijest",
+      "hint": "Reči koje oblikuju svetove."
+  },
+  {
+      "word": "prosvjetljenje",
+      "hint": "Trenutak kada mrak uma nestane."
+  },
+  {
+      "word": "razumijevanje",
+      "hint": "Most između znanja i osećanja."
+  },
+  {
+      "word": "pokretač",
+      "hint": "Onaj koji donosi promenu."
+  },
+  {
+      "word": "snoviđenje",
+      "hint": "Slika budućnosti u snu."
+  },
+  {
+      "word": "radost",
+      "hint": "Osećaj koji osvetljava dušu."
+  },
+  {
+      "word": "pouzdanje",
+      "hint": "Verovanje u nešto što se ne vidi."
+  },
+  {
+      "word": "izdržljivost",
+      "hint": "Moć opstanka u teškim trenucima."
+  },
+  {
+      "word": "odgovornost",
+      "hint": "Težina koju nosi samo jaki karakter."
+  },
+  {
+      "word": "porijeklo",
+      "hint": "Gde je sve započelo."
+  },
+  {
+      "word": "proboj",
+      "hint": "Kada prepreke više ne postoje."
+  },
+  {
+      "word": "naučnik",
+      "hint": "Onaj koji postavlja pitanja i traži odgovore."
+  },
+  {
+      "word": "putokaz",
+      "hint": "Pokazuje pravac, ali ne donosi odluku."
+  },
+  {
+      "word": "doživljaj",
+      "hint": "Nešto što ostavlja trag u sećanju."
+  },
+  {
+      "word": "magnetizam",
+      "hint": "Nevidljiva sila koja privlači."
+  },
+  {
+      "word": "mozaik",
+      "hint": "Slika sastavljena od mnogo malih dijelova."
+  }
+]

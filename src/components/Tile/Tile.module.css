@@ -1,0 +1,27 @@
+.tile {
+  /* variables */
+  --tileSize: 4rem;
+  --tileFontSize: 2.5rem;
+  --tilePadding: 0.5rem;
+  /* styles */
+  height: var(--tileSize);
+  width: var(--tileSize);
+  background-color: var(--black);
+  color: var(--white);
+  font-size: var(--tileFontSize);
+  box-sizing: border-box;
+  padding: var(--tilePadding);
+  border-radius: var(--tilePadding);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  user-select: none;
+  transform: rotateY(0deg);
+  transition: all 0.3s;
+}
+.tile.open {
+  background-color: var(--green);
+  transform: rotateY(360deg);
+}

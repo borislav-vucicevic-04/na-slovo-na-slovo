@@ -1,0 +1,82 @@
+.modalOverlay {
+  /* variables */
+  --modalPadding: 1rem;
+  --modalHeaderHeight: 3rem;
+  --modalHeaderCloseFontSize: 3rem;
+  /* styling */
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100dvh;
+  width: 100dvw;
+  background-color: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(5px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.modal {
+  padding: var(--modalPadding);
+  padding-top: 0;
+  border-radius: var(--modalPadding);
+  border: solid 3px var(--darkBlack);
+  max-height: 75%;
+  width: 50%;
+  background-color: var(--white);
+  position: relative;
+  animation: fly-in 0.3s;
+  overflow: auto;
+}
+.modal span {
+  text-align: justify;
+}
+.modalHeader {
+  padding-top: var(--modalPadding);
+  display: flex;
+  height: var(--modalHeaderHeight);
+  width: 100%;
+  justify-content: space-between;
+  border-bottom: solid 3px var(--darkBlack);
+  color: var(--darkBlack);
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  position: sticky;
+  top: 0;
+  background: var(--white);
+}
+.modalHeader h1 {
+  margin: 0;
+  color: inherit;
+}
+.modalHeader button {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  aspect-ratio: 1 / 1;
+  font-size: var(--modalHeaderCloseFontSize);
+  color: var(--darkBlack);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 0;
+  background-color: var(--white);
+  transition: all 0.3s;
+  cursor: pointer;
+  border: none;
+  border-radius: 25%;
+}
+.modalHeader button:hover {
+  background-color: var(--red);
+  color: var(--white);
+}
+
+@keyframes fly-in {
+  from {
+    opacity: 0;
+    top: -25%;
+  }
+  to {
+    opacity: 1;
+    top: 0;
+  }
+}

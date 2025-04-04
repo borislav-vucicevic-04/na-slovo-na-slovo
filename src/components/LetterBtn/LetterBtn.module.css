@@ -1,0 +1,30 @@
+.letterBtn {
+  flex: 1;
+  justify-self: stretch;
+  align-self: stretch;
+  background-color: var(--black);
+  color: var(--white);
+  padding: var(--letterBtnPadding);
+  border-radius: var(--letterBtnPadding);
+  font-size: var(--letterBtnFontSize);
+  font-weight: bold;
+  text-transform: uppercase;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.letterBtn:hover {
+  filter: brightness(150%);
+}
+.correct {
+  background-color: var(--green);
+}
+.wrong {
+  background-color: var(--red);
+}
+.letterBtn.correct:hover, .letterBtn.wrong:hover {
+  filter: unset;
+}
+.letterBtn:disabled {
+  cursor: not-allowed;
+}

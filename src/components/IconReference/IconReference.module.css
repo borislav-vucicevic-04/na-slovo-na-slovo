@@ -1,0 +1,29 @@
+.iconReference {
+  /* variables */
+  --iconReferenceHeight: 3rem;
+  /* Styling */
+  height: var(--iconReferenceHeight);
+  width: 100%;
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  align-items: center;
+  color: var(--dark-blue);
+  font-size: 1.25rem;
+}
+.icon {
+  height: 100%;
+  aspect-ratio: 1 / 1;
+  background-color: #162437;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 0.5rem;
+}
+.icon img {
+  height: 100%;
+  width: 100%;
+}
+
+.iconReference span {
+  line-height: 0;
+}

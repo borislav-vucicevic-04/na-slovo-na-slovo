@@ -1,0 +1,146 @@
+.main {
+  /* variables */
+  --mainPadding: 0.75rem;
+  --mainGap: 0.75rem;
+  --heartsContainerGap: 1.5rem;
+  --heartSize: 2.5rem;
+  --headerHeight: 3rem;
+  --headerPadding: 0.5rem;
+  --headerItemFontSize: 1.5rem;
+  --lettersGap: 0.5rem;
+  --letterBtnPadding: 0.75rem; 
+  --letterBtnFontSize: 1.5rem;
+  --specialBtnHeight: 4rem;
+  --specialBtnPadding: 0.75rem; 
+  --specialBtnFontSize: 1.5rem;
+  --wordContainerGap: 1rem;
+  /* styling */
+  flex: 1;
+  justify-self: stretch;
+  align-self: stretch;
+  background: var(--bijela);
+  box-sizing: border-box;
+  padding: var(--mainPadding);
+  display: flex;
+  row-gap: var(--mainGap);
+  flex-direction: column;
+}
+.header {
+  height: var(--headerHeight);
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: var(--headerHeight);
+  background-color: var(--green);
+  display: flex;
+  align-items: center;
+}
+.headerItem {
+  height: 100%;
+  aspect-ratio: 1 / 1;
+  color: (--white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: var(--headerItemFontSize);
+  color: var(--white);
+  font-weight: bold;
+}
+.headerItem:last-child {
+  margin: 0 1rem;
+}
+.progressBarWrapper {
+  flex: 1;
+  align-self: stretch;
+  justify-self: stretch;
+  background-color: #b5b5b5;
+  margin-right: 1rem;
+  position: relative;
+}
+.progressBarWrapper span {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  font-size: var(--headerItemFontSize);
+  font-weight: bold;
+  color: var(--white);
+}
+.progressBar {
+  height: 100%;
+  width: 0;
+  background-color: var(--green);
+  transition: width 0.5s;
+}
+.coin {
+  margin-left: auto;
+  height: 60%;
+  aspect-ratio: 1 / 1;
+}
+.heartsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--heartsContainerGap);
+}
+.heart {
+  height: var(--heartSize);
+  aspect-ratio: 1 / 1;
+}
+.shaking {
+  animation: shake 250ms;
+}
+.wordContainer {
+  flex: 1;
+  align-self: stretch;
+  justify-self: stretch;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--wordContainerGap);
+}
+.specialBtnsContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.specialBtn {
+  height: var(--specialBtnHeight);
+  font-size: var(--specialBtnFontSize);
+  padding: var(--specialBtnPadding);
+  border-radius: var(--specialBtnPadding);
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  border: none;
+  background-color: hsl(215, 43%, 15%);
+  cursor: pointer;
+  font-weight: bold;
+  color: var(--white);
+  transition: all 0.5s;
+}
+.specialBtn:hover {
+  filter: brightness(150%);
+}
+.specialBtn img {
+  height: 100%;
+  aspect-ratio: 1 / 1;
+}
+.lettersContainer {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: var(--lettersGap);
+}
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}

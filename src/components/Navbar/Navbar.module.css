@@ -1,0 +1,15 @@
+.navbar {
+  /* variables */
+  --navbarWidth: 4.6875rem;
+  --navbarPadding: 0.5rem;
+  --navbarGap: 2rem;
+  /* style */
+  height: 100%;
+  width: var(--navbarWidth);
+  box-sizing: border-box;
+  padding: var(--navbarPadding);
+  background-color: var(--dark-blue);
+  display: flex;
+  flex-direction: column;
+  gap: var(--navbarGap);
+}
