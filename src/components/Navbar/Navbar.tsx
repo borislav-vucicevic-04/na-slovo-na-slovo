@@ -2,11 +2,11 @@ import NavItem from '../NavItem/NavItem'
 import Style from './Navbar.module.css'
 
 // Ikonice
-import HelpIcon from './../../../public/assets/help.svg'
-import DownloadIcon from './../../../public/assets/download.svg'
-import UploadIcon from './../../../public/assets/upload.svg'
-import InfoIcon from './../../../public/assets/info.svg'
-import QuitIcon from './../../../public/assets/quit.svg'
+import HelpIcon from './../../../public/icons/help.svg'
+import DownloadIcon from './../../../public/icons/download.svg'
+import UploadIcon from './../../../public/icons/upload.svg'
+import InfoIcon from './../../../public/icons/info.svg'
+import QuitIcon from './../../../public/icons/quit.svg'
 
 // Interfejsi
 import INavBarProps from '../../interfaces/navBarProps.interface'

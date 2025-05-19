@@ -4,10 +4,10 @@ import GAMES from './../../words.json'
 import CryptoJS from 'crypto-js'
 
 // Slike
-import RedHeart from './../../../public/assets/red-heart.svg'
-import GrayHeart from './../../../public/assets/gray-heart.svg'
-import Coin from './../../../public/assets/coin.svg'
-import LightBulb from './../../../public/assets/light-bulb.svg'
+import RedHeart from './../../../public/icons/red-heart.svg'
+import GrayHeart from './../../../public/icons/gray-heart.svg'
+import Coin from './../../../public/icons/coin.svg'
+import LightBulb from './../../../public/icons/light-bulb.svg'
 
 // Interfejsi
 import IProgress from '../../interfaces/progress.interface'
